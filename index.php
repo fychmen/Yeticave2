@@ -1,1 +1,1 @@
-asddass
+$_SERVER[];
